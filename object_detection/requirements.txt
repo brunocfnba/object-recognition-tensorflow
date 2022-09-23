@@ -33,7 +33,7 @@ Pillow==4.2.1
 pipreqs==0.4.9
 post==0.0.13
 prompt-toolkit==1.0.15
-protobuf==3.3.0
+protobuf==3.18.3
 ptyprocess==0.5.2
 public==0.0.38
 Pygments==2.2.0
